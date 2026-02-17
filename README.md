@@ -45,3 +45,59 @@ The bot uses a combination of techniques:
 ---
 
 ## 📁 Project Structure
+
+├── RPS.py # AI player logic (modified)
+├── RPS_game.py # Game engine and bots (do not modify)
+├── main.py # Local testing file
+├── test_module.py # Automated tests
+
+
+---
+
+## ▶️ How to Run
+Run the program using:
+
+```bash
+python main.py
+
+Test against a specific bot:
+
+play(player, quincy, 1000)
+
+Enable verbose mode:
+play(player, quincy, 100, verbose=True)
+
+✅ Results
+
+Successfully defeats all four opponent bots
+
+Achieves 60%+ win rate consistently
+
+Passes all automated unit tests
+
+🧪 Testing
+
+Unit tests are included in test_module.py.
+
+To run tests automatically, uncomment the test call in main.py.
+
+🏆 Key Learnings
+
+Avoiding mutable default argument bugs in Python
+
+Designing adaptive algorithms
+
+Writing test-compliant competitive code
+
+Implementing intelligent behavior without ML libraries
+
+
+---
+
+If you want next:
+- **short README**
+- **FreeCodeCamp-style README**
+- **README with screenshots**
+- **README with badges**
+
+Just tell me 🚀
