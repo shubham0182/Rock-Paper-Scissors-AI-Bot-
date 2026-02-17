@@ -90,5 +90,9 @@ Designing adaptive algorithms
 Writing test-compliant competitive code
 
 Implementing intelligent behavior without ML libraries
-
+If you want next:
+- **short README**
+- **FreeCodeCamp-style README**
+- **README with screenshots**
+- **README with badges**
 
