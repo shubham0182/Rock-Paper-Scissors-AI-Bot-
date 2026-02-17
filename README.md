@@ -92,7 +92,3 @@ Writing test-compliant competitive code
 Implementing intelligent behavior without ML libraries
 
 
----
-
-
-Just tell me 🚀
